@@ -1,4 +1,4 @@
 <script>
-window.location = "https://nahidupa.gitlab.io";
+window.location = "https://devsecopsdiary.com/";
 </script>
-[Moved to https://nahidupa.gitlab.io](https://nahidupa.gitlab.io).
+[Moved to https://devsecopsdiary.com/](https://devsecopsdiary.com/).
